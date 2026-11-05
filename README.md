@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Aron 👋
 
-<!--
-**Aaron27052004/Aaron27052004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **full-stack web developer** and a **mathematics student** based in the Paris area, France.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into complete products: designing the database, building the API, crafting the interface, and deploying it. My mathematical background shapes how I approach problems: rigorously, step by step, and with a taste for clean solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- **Languages:** Python, Java, C, JavaScript, SQL
+- **Front-end:** HTML, CSS, React, Next.js
+- **Back-end:** Node.js, REST APIs
+- **Tools:** Git, Vercel
+
+## Featured projects
+- 📚 [**Library Management App**](https://github.com/Aaron27052004/projet-bibliotheque): web app to manage a library's catalog, with a REST API ([live demo](https://projet-bibliotheque.vercel.app))
+- (add your other projects here)
+
+## Languages
+French (native) · Hebrew (fluent) · English (university level)  
+
+## Get in touch
+📫 your-email@example.com · [LinkedIn](https://linkedin.com/in/aron-khayat)
